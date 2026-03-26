@@ -1,5 +1,5 @@
 {
-  "contact_enabled": true,
+  "contact_enabled": false,
   "qr_value": "https://website.com/",
   "whatsapp_phone": "+44 xxxxx xxxx",
   "website_url": "https://website.com/",

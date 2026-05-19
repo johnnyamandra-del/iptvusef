@@ -1,8 +1,8 @@
 {
-  "enablecontact": false,
-  "qrvalue": "https://example.com/playlist",
-  "whatsappnumber": "+212600000000",
-  "website": "https://example.com",
+  "enablecontact": true,
+  "qrvalue": "https://www.iron-tv.online",
+  "whatsappnumber": "+44 7450 630 334",
+  "website": "https://www.iron-tv.online/",
   "1mPrice": "10€",
   "3mPrice": "25€",
   "6mPrice": "45€",

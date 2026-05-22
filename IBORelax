@@ -1,0 +1,10 @@
+{
+  "contact_enabled": false,
+  "qr_value": "https://website.com/",
+  "whatsapp_phone": "+44 xxxxx xxxx",
+  "website_url": "https://website.com/",
+  "price_1_month": "20€",
+  "price_3_months": "35€",
+  "price_6_months": "45€",
+  "price_12_months": "65€"
+}

@@ -1,10 +1,10 @@
 {
   "contact_enabled": true,
-  "qr_value": "https://iptvflixpro.com/",
+  "qr_value": "https://www.irontvstream.com/",
   "whatsapp_phone": "+447400455889",
-  "website_url": "https://iptvflixpro.com/",
-  "price_1_month": "20€",
-  "price_3_months": "35€",
-  "price_6_months": "45€",
-  "price_12_months": "69€"
+  "website_url": "https://www.irontvstream.com/",
+  "price_3_month": "20€",
+  "price_6_months": "35€",
+  "price_12_months": "45€",
+  "price_24_months": "69€"
 }
